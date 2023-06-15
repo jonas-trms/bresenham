@@ -25,4 +25,4 @@ $ ./bresenham bresenham.ppm red 250 250 900 800
 ```
 
 ![The line was drawn between (250, 250) and (900, 800)](https://i.imgur.com/8YABLtI.png) \
-The line was drawn between `(250, 250)` and `(900, 800)`
+The line was drawn between `(250, 250)` and `(900, 800)`.

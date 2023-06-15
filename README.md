@@ -3,7 +3,7 @@ This algorithm draws a line between the points (x0, y0) and (x1, y1), and export
 
 It's possible to choose the colour of the line among these ones : red, green, blue, black, white, lightgray
 
-The canvas has a size of 1000 * 1000.
+The canvas has a size of 1000 * 1000. Coordinates are integers
 
 # Execution
 Output image must be in ppm format \

@@ -1,5 +1,5 @@
 # An implementation of Bresenham's algorithm
-Draws a line between the points (x0, y0) and (x1, y1), and exports an image of it. 
+This algorithm draws a line between the points (x0, y0) and (x1, y1), and exports an image of it. 
 
 It's possible to choose the colour of the line among these ones : red, green, blue, black, white, lightgray
 

@@ -6,7 +6,8 @@ It's possible to choose the colour of the line among these ones : red, green, bl
 The canvas has a size of 1000 * 1000. Coordinates are integers
 
 # Execution
-Output image must be in ppm format \
+Output image must be in ppm format
+
 Arguments : output path, colour, x0, y0, x1, y1
 
 # Example

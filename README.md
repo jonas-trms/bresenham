@@ -2,7 +2,7 @@
 This algorithm draws a line between the points `(x0, y0)` and `(x1, y1)`, and exports a `.ppm` image of it. 
 
 ## Compilation
-You can compile with GCC by running the following command:
+You can compile with `gcc` by running the following command:
 
 ```
 $ gcc -o bresenham src/main.c src/bresenham.c src/canvas.c src/primitives.c -lm
